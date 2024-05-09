@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NumSelectGame/static/css/main.e56c844c.css",
+    "main.js": "/NumSelectGame/static/js/main.6224fe20.js",
+    "index.html": "/NumSelectGame/index.html",
+    "main.e56c844c.css.map": "/NumSelectGame/static/css/main.e56c844c.css.map",
+    "main.6224fe20.js.map": "/NumSelectGame/static/js/main.6224fe20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e56c844c.css",
+    "static/js/main.6224fe20.js"
+  ]
+}
